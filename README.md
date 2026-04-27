@@ -1,4 +1,4 @@
-# EcoBriquettes
+# Ecobriquettes
 
 <!DOCTYPE html>
 <html lang="en">
